@@ -1,4 +1,4 @@
-###NOTE###
+### NOTE
 You might get this warning:
 [Error: UNKNOWN: unknown error, readlink 'C:\Users\hunub\OneDrive\Documents\web_guys_assesment\.next\server\app\favicon.ico'] {
   errno: -4094,
